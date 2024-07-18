@@ -28,7 +28,7 @@ environments(React Native...) or Chrome extensions will be added once the
 underlying Firebase core SDK supports them in a way that is compatible with
 FirebaseUI.
 
-## Table of Contents
+## Table of Contents 
 
 1. [Demo](#demo)
 2. [Installation](#installation)
